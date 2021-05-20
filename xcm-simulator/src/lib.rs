@@ -1,5 +1,5 @@
-pub use paste;
 pub use codec;
+pub use paste;
 
 pub use frame_support;
 pub use frame_system;
@@ -9,7 +9,7 @@ pub use sp_io;
 pub use sp_runtime;
 pub use sp_std;
 
-pub use cumulus_pallet_xcm;
+pub use cumulus_pallet_xcm_handler;
 pub use cumulus_primitives_core;
 pub use parachain_info;
 pub use polkadot_parachain;
