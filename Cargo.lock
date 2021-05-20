@@ -4198,7 +4198,6 @@ name = "xcm-simulator"
 version = "0.0.1-alpha"
 dependencies = [
  "cumulus-pallet-parachain-system",
- "cumulus-pallet-xcm-handler",
  "cumulus-primitives-core",
  "frame-support",
  "frame-system",
